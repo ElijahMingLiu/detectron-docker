@@ -1,4 +1,4 @@
-If you only want to use the docker please directly pull my built docker:
+If you only want to use the built image please directly pull my built docker:
 
 `docker pull qqliuming1995/detectron2:pytorch1.8.1-cuda10.2-cudnn7-devel`
 
