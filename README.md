@@ -1,5 +1,10 @@
+If you only want to use the docker please directly pull my built docker:
+
+`docker pull qqliuming1995/detectron2:pytorch1.8.1-cuda10.2-cudnn7-devel`
+
 This is pytorch 1.8 and cuda 10.2 and detectron2
-STEPS
+
+STEPS:
 
 1. Install nvidia-docker according to [this link](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#install-guide)
 
